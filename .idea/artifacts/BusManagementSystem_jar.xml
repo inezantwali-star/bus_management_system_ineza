@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="BusManagementSystem:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/BusManagementSystem_jar</output-path>
+    <root id="archive" name="BusManagementSystem.jar">
+      <element id="module-output" name="BusManagementSystem" />
+    </root>
+  </artifact>
+</component>
